@@ -1,0 +1,12 @@
+name: David Elbe
+description: My personal website
+meta_description: "The personal website of David Elbe. Entrepreneur, developer and problem-solver."
+
+markdown: redcarpet
+highlighter: rouge
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'http://david.elbe.me/'
+author:         'David Elbe'
