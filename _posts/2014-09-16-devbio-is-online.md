@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Devb.io is online"
+title:  Devb.io is online
 date:   2014-09-16
 categories: projects devbio
 ---

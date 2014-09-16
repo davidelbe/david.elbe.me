@@ -3,7 +3,6 @@ description: My personal website
 meta_description: "The personal website of David Elbe. Entrepreneur, developer and problem-solver."
 
 markdown: redcarpet
-highlighter: rouge
 logo: false
 paginate: 15
 
