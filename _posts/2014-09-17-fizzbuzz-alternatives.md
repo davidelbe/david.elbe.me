@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  4 alternatives to the Fizzbuzz test for hiring programmers
+title:  5 alternatives to the Fizzbuzz test for hiring programmers
 date:   2014-09-17
 categories: developers hiring
 ---
 
 I compiled a list over the last 100 so-called programmers who came to me
 looking for a job. 75 of them failed one or more of our three
-simple programming tests. Let me emphase that, 75 out of 100 applicants to a
-programming job can not program. At all.
+simple programming tests. Let me emphase that; 75 out of 100 applicants to a
+programming job *can not program*. At all.
 
 You might have heard of the Fizz Buzz test. I first read about it on Jeff Atwood's
 [excellent blog](http://blog.codinghorror.com/why-cant-programmers-program/).
@@ -57,7 +57,10 @@ and math is an important part of programming.
 
 ## 3. Bug fixes
 
-_There are three big obvious errors in the code below. Which ones?_
+_"There are three big obvious errors in the code below. Which ones?"_
+
+Used with the code below or your own internal bug-ridden code snippet in the
+language you are working with. Here we are using a small ruby-method:
 
 {% highlight ruby %}
 def fix_spelling(name)
@@ -70,7 +73,7 @@ def fix_spelling(name)
 end
 {% endhighlight %}
 
-There are actually more than three errors in this code, and it's usefulness can
+There are actually more than three errors in this code, and its usefulness can
 certainly be discussed. I want the applicant to at least mention that we should
 be using == instead of = since the if statement will always return true. I also
 want them to notice that we are returning 'name' no matter what, and that we
@@ -78,14 +81,24 @@ have a potential eternal recursion going on here.
 
 ## 4. Box size
 
-_Write a function that takes three measurements in centimeters as input and returns
-a the volume over a litre_
+_"Write a function that takes three measurements in centimeters as input and returns
+a the volume over a litre"_
 
 Americans may need to google how much a centimeter and a litre is, but otherwise
 this should be an easy task for most programmers. Things I want to hear the
 applicant ask is _"Hmm .. what should we do if the volume is less than a litre?
 Return 0 or a negative number?".
 
+## 5. Worst Fizz Buzz
+
+_"Write the worst – but working – implementation of Fizz Buzz that you can think
+of"_
+
+This can bring up some good laughs, and takes some of the pressure off of the
+applicant. "Write bad code? I can do that!". You are looking to see if they
+know their way around programming and ineffective code / code smells. I have
+seen examples with 100 if-statements, and one guy even wrote a program to output
+a method that repeats itself about 100 times using switch and case in PHP.
 
 ## Conclusion
 
