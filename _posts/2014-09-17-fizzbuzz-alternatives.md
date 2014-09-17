@@ -1,4 +1,5 @@
 ---
+disqus: 'true'
 layout: post
 title:  5 alternatives to the Fizzbuzz test for hiring programmers
 date:   2014-09-17
