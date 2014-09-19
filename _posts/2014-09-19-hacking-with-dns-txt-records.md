@@ -7,7 +7,7 @@ categories: security
 ---
 
 Last night I ran into a clever little exploit using XSS (Cross site scripting
-for you newbies, [Wikipedia](http://en.wikipedia.org/wiki/Cross-site_scripting) )
+for you newbies, [Wikipedia](http://en.wikipedia.org/wiki/Cross-site_scripting)
 has a whole article about it).
 
 DNS has multiple record types. A (direct IP pointing), NS (name server settings), MX (e-mail config)
