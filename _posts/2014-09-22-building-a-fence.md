@@ -10,10 +10,9 @@ This weekend I decided to build a fence around my terrace which is about two
 meters up at the highest point. The old fence was removed during a renovation
 of the house.
 
-![imaage](/assets/images/2014-09-22-fence.jpg)
+![image](/assets/images/2014-09-22-fence.jpg)
 
-_This is halfway through the project. It needs some paint, but it is starting
-to look good. _
+_This is halfway through the project. It needs some paint, but it is starting to look good._
 
 Today I looked back on what I did and saw a lot of resemblance to things I do
 on a daily basis. Here are some things i noticed:
