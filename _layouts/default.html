@@ -6,10 +6,11 @@
 
     {% if page.frontpage %}
       <title>{{ site.name }} - {{ site.description }}</title>
+      <meta name="description" content="{{ site.meta_description}}" />
     {% else %}
       <title>{{ page.title }} - {{ site.name }}</title>
+      <meta name="description" content="{{ post.content | strip_html | truncatewords: 50 }}" />
     {% endif %}
-    <meta name="description" content="{{ site.meta_description}}" />
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="MobileOptimized" content="320" />
