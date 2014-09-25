@@ -9,7 +9,7 @@
       <meta name="description" content="{{ site.meta_description}}" />
     {% else %}
       <title>{{ page.title }} - {{ site.name }}</title>
-      <meta name="description" content="{{ post.content | strip_html | truncatewords: 50 }}" />
+      <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 50 }}" />
     {% endif %}
 
     <meta name="HandheldFriendly" content="True" />
