@@ -1,7 +1,7 @@
 ---
 disqus: true
 layout: post
-title:  'October Side Project: Moderated Instragram feed'
+title:  'October Side Project: Moderated Instagram feed'
 date:   2014-10-01
 categories: sideproject
 ---
