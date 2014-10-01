@@ -1,7 +1,7 @@
 ---
 disqus: true
 layout: post
-title:  'October Side Project: Instagram filter'
+title:  'October Side Project: Moderated Instragram feed'
 date:   2014-10-01
 categories: sideproject
 ---
@@ -67,4 +67,4 @@ I am thinking that I could charge $5 per month, or $49 for a full year. I guess
 ## Timeplan
 
 As usual, this app will be up and running before the end of the current month:
- October 2014. 
+ October 2014.
