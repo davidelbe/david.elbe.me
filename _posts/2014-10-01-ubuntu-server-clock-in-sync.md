@@ -20,7 +20,8 @@ be running for months without rebooting.
 
 Just run `sudo apt-get install ntp` and give it a couple of minutes. It will
 automatically sync with the nearest [NTP server](http://en.wikipedia.org/wiki/Network_Time_Protocol).
-The bad thing with this is that it adds a small extra load on your server.
+The bad thing with this is that it adds a small extra load on your server, but
+won't be noticable for most people.
 
 Your time will be correct with an error margin of a few milliseconds.
 
