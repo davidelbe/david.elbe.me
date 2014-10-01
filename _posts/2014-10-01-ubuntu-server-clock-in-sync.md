@@ -16,7 +16,7 @@ continously.
 Yes and no. Every reboot the clock syncs. But as you know, servers can (and should)
 be running for months without rebooting.
 
-## The simple solutions
+## The simple solution
 
 Just run `sudo apt-get install ntp` and give it a couple of minutes. It will
 automatically sync with the nearest [NTP server](http://en.wikipedia.org/wiki/Network_Time_Protocol).
