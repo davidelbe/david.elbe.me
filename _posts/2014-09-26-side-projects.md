@@ -37,7 +37,7 @@ to human trials. Things can go wrong even if they seem good in theory.
 Your employer should thank you for trying out new stuff in your personal projects.
 I have seen far too many live customer projects go wrong because a developer just
 liked the idea of testing something completely new. Sometimes everything works
-out with that new MongDB-adapter, and sometimes it breaks badly – and you have
+out with that new MongoDB-adapter, and sometimes it breaks badly – and you have
 no experience building real stuff with it. So try it out in a personal project
 before you even think about using it at work.
 
@@ -53,7 +53,7 @@ Another thing that I like to do is give myself a timeframe. This does not work
  for everyone, but I need some time pressure to finish the project and make
  sure it does not get too big. So the first day of any given month I wrap up
  the old project and start a new one. That does not mean I never work on it again,
- but it
+ but it means that the project should be usable and launched.
 
 ## Side projects should be fun
 Note that your side project **should be fun**, and this is important. Fun can be
@@ -100,4 +100,4 @@ time to make a crash landing outside a project that they are involved in.
 
 Reading code that someone else and fix bugs in it will make you learn a lot.
 [Githubs trending repos](https://github.com/trending) is a good place to find
-repos that is moving forward right now. 
+repos that is moving forward right now.
