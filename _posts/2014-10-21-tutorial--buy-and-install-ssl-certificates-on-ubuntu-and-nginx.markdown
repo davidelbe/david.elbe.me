@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial – Buy and install SSL certificates on Ubuntu and NginX"
 date: "2014-10-21"
+disqus: true
 ---
 
 I install SSL certificates 10-15 times per year, but now when Google has told
