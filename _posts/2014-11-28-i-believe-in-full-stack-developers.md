@@ -15,14 +15,15 @@ Lately I have seen a lot of bashing of full stack development. I hear about peop
 I am in the web development business, and for me a full stack development is the ability to create a product from start to finish. I do not include design in full stack development, but of course it is a bonus if the end result does not look like it came out of the wrong part of your dog.
 
 A full stack developer example for Ruby on Rails would be the following skillset:
-* Ruby / Rails (backend coding)
-* Minitest (testing)
-* PostgreSQL (database)
-* HTML (frontend structure)
-* CSS (frontend styling)
-* Javascript (frontend functionality)
-* Ubuntu server (deployment)
-* Git (version control)
+
+ * Ruby / Rails (backend coding)
+ * Minitest (testing)
+ * PostgreSQL (database)
+ * HTML (frontend structure)
+ * CSS (frontend styling)
+ * Javascript (frontend functionality)
+ * Ubuntu server (deployment)
+ * Git (version control)
 
 Each bullet point above can be specialized further with specific frameworks and versions, but that is not my point. Are you as developer comfortable with building an app from ground up? Great, you are a full stack developer.
 
