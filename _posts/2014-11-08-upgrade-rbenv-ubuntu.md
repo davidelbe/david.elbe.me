@@ -24,7 +24,7 @@ else is helped by it – perfect.
  * Ubuntu 14.04 LTS
  * Ruby via Rbenv (2.1.2)
  * Puma
- * Ruby on Rails (4.1.6)
+ * Ruby on Rails (4.1.7)
  * PostgreSQL
  * Capistrano for deploys
 
