@@ -83,6 +83,9 @@ set :nginx_server_name, 'staging.example.com'
 
 ### Generate server config
 
+First, generate the templates locally `rails g capistrano:nginx_puma:config`
+
+Then run this:
 `bundle exec cap staging puma:config puma:nginx_config`
 
 This should generate two configuration files on your server.
