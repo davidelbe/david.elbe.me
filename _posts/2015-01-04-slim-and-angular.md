@@ -13,7 +13,9 @@ the HTML tags.
 I like to combine Slim templates with Angular, writing code like this:
 
 ```
+{% raw %}
 #user {{ user.full_name }}
+{% endraw %}
 ```
 
 Where `user` comes from Angular. Slim does not like this since it uses
