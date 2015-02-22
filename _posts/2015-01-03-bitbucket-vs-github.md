@@ -19,6 +19,7 @@ We are maintaining many projects for our clients. We normally don't charge for c
  * It is generally easier to find integrations if you use Github. For example, Travis CI is Bitbucket only right now.
  * It gets expensive fast if you maintain many private repos. For a team with a few repos or mostly open source pricing won't be an issue though.
  * I like the UI of Github better, most of the time.
+ * Deploy keys can not be reused on multiple repos, which is irritating.
 
 # Bitbucket
 
@@ -27,5 +28,6 @@ We are maintaining many projects for our clients. We normally don't charge for c
   * The Bitbucket UI feels a bit old and it can be hard to find the right buttons since they are not always position in the most natural places.
   * Collaborator approval on pull requests are a great feature. I wish you could auto-merge a PR when everyone has approved, though, but the feature is great.
   * It looks like Atlassian who develops Bitbucket is ignoring feature-requests/bug reports. That is not a good sign.
+  * Deploy keys can be reused on multiple repos
 
 I'll keep this blog post updated when I find something I like/don't like.

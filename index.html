@@ -9,21 +9,35 @@ about: 'about.html'
 <header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% endif %}>
     <div class="vertical">
         <div class="site-head-content" class="inner">
-            {% if page.logo %}
-                <a class="blog-logo" href="{{ site.baseurl }}">
-                    <img src="{{ page.logo }}" alt="Blog Logo" />
-                </a>
-            {% endif %}
-            <h1 class="blog-title">{{ site.name }}</h1>
+            <h1 class="blog-title">David Elbe</h1>
             <h2 class="blog-description">
-                {{ site.description }}.
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
+                {{ site.description }}
             </h2>
+        </div>
+        <div class="navigation">
+            <a href="about.html">About me</a>
+            <a href="sideprojects.html">Projects</a>
         </div>
     </div>
 </header>
 
 <main class="content" role="main">
+
+    <article class="post introduction">
+        <h2>I can help you build a great web agency</h2>
+        <p>This is my blog where I tell you all about how I run <a href="http://standout.se/">Standout</a>, a web development agency in Sweden.</p>
+
+        <p>
+            If you are a developer/project manager who want to run your own business one day,
+            or maybe you are already running a web development agency but want
+            some helpful tips and tricks from time to time this blog should suit you well.
+        </p>
+
+        <p>
+            You can make sure you don't miss any posts by subscribing to my RSS feed
+        </p>
+
+    </article>
 
     {% for post in paginator.posts %}
 
