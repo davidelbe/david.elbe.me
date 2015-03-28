@@ -789,6 +789,10 @@ margin on the iframe, cause it breaks stuff. */
         margin-left: 0;
     }
 
+    .NewsletterSignup {
+        position: relative !important;
+    }
+
     .site-head {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
@@ -849,6 +853,10 @@ margin on the iframe, cause it breaks stuff. */
 
     .blog-logo img {
         max-height: 80px;
+    }
+
+    .NewsletterSignup {
+        position: relative !important;
     }
 
     .inner,
