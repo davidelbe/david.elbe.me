@@ -29,14 +29,14 @@ I like to measure three things in all of my apps.
 
  * Monthly Recurring Revenue
  * Churn rate (how many are leaving each month)
- * Customer Lifetime Value (how much is each customer worth)
+ * Lifetime Value (LTV: how much is each customer worth during their lifetime as a subscriber)
 
 There are lot of other KPI's that you could measure, but if
 you are currently not measuring anything these are the most
 important KPI's to add.
 
 Churn rate should be low. Monthly recurring revenue (MRR) should
-increase and customer lifetime value should be higher than your 
+increase and customer lifetime value (LTV) should be higher than your 
 costs to get a customer to sign up for your service.
 
 If all three of the above looks good you probably have a good
