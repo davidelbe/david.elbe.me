@@ -9,7 +9,7 @@ categories: saas
 Sometimes calculating churn just does not make sense. 
 
 Let's say you have a SaaS app that you're just starting out, or naturally
-have a small audience. 
+have a small audience. Small in this case is less than 100 customers. Let's say you have 10 paying customers.
 
 Does it make sense to calculate the churn with such a small user base?
 
