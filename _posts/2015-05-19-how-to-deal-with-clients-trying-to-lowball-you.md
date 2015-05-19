@@ -25,7 +25,7 @@ lower my quotes. If you lower your price the client will feel two things:
  * They must negotiate everything in the future.
 
 
- ## Reduce scope
+## Reduce scope
 
  If the client absolutely does not have the budget to complete the project at
  your quoted price, you can change the pricing – but always remove something from the quote.
