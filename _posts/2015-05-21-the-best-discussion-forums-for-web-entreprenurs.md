@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The best forums for web entrepreneurs"
+title: "The best discussion forums for web entrepreneurs"
 date: "2015-05-21"
 disqus: true
 categories: entrepreneur
