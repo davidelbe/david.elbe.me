@@ -6,11 +6,10 @@ disqus: true
 categories: programming
 ---
 
-So, you have a great idea for a startup. A once-in-a-lifetime idea. There's only one
-problem: you don't know how to code. So, you are trying to get a developer to work for
-you. What should you do to get them to build the product for you?
+Here are 8 different types of programmers that I have encountered in 
+different web development projects during the last decade. 
 
-I've seen some variants in the past:
+Which one is you?
 
 
 ## 1. McGyver
