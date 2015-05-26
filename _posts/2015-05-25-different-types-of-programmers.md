@@ -18,7 +18,7 @@ The guy who will understand and fix your problems fast. He does not care
 about code quality much, and will never fix any indentation errors in 
 other people's code. He will use duct tape if he has to.
 
-Can actually write good gode from time to time, and is happy when other
+Can actually write good code from time to time, and is happy when other
 people is refactoring his code for him - as long as it works just as good afterwards.
 
 The whole app will be hard to fix if this person ever goes away. Always delivers faster than anyone expects, and always makes the customer and managers happy.
