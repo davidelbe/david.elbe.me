@@ -9,3 +9,6 @@ paginate: 15
 # Details for the RSS feed generator
 url:            'http://david.elbe.me/'
 author:         'David Elbe'
+
+gems:
+  - jekyll-redirect-from
