@@ -12,7 +12,7 @@ different web development projects during the last decade.
 Which one is you?
 
 
-## 1. McGyver
+## 1. MacGyver
 
 The guy who will understand and fix your problems fast. He does not care
 about code quality much, and will never fix any indentation errors in 
@@ -35,7 +35,7 @@ His progress will look great at first, since he ticks off many items
 on the to do-list – but you will be greatly disapponted since every
 issue has to be opened again.
 
-Does not go well with testers, but is good at keeping deadlines. Combine this guy with *McGyver* and you have a good team.
+Does not go well with testers, but is good at keeping deadlines. Combine this guy with *MacGyver* and you have a good team.
 
 ## 3. The Rewriter
 
@@ -87,6 +87,17 @@ Does not comply with *The Perfectionist* but creates a lot of work for *The Rewr
 
 ## 8. The Pseudo-coder
 
-A manager who things he can get people to understand things better by writing pseudo-code. In reality he sounds like 
-someone talking to a child. "Oh, how cute! Can you give that red ball to mommy? Good programmer!"
+A manager who thinks he can get people to understand things better by writing pseudo-code. 
+
+```
+if
+  price of beer is less than 10
+then
+  do order drink
+else
+  exit foobar
+
+```
+
+In reality he sounds like someone talking to a child. "Oh, how cute! Can you give that red ball to mommy? Good programmer!"
 
