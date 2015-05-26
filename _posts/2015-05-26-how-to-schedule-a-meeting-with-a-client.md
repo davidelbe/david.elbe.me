@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "5 ways to effectively schedule a a meeting with a client"
+title: "5 ways to effectively schedule a meeting with a client"
 date: "2015-05-26"
 disqus: true
 categories: sales
 ---
 
-## 1. Use the phone
+Some of my peers and colleagues have trouble to book a meeting with clients. It sounds easy, but if it is your
+first rodeo it can be a bit troublesome to just get started. Here are some of the tips I shared with my colleagues in the last couple of months.
+
+
+## 1. Use the phone, darnit!
 
 Talking directly to the other person is the easiest way
 to find a time that works for both of you. If you use e-mail or text messages you will always have a delay. If you are like me and book several meetings you will run into situations where the customer takes days to respond, and you may 
