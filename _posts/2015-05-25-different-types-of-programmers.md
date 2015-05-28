@@ -14,12 +14,12 @@ Which one is you?
 
 ## 1. MacGyver
 
-The guy who will understand and fix your problems fast. He does not care
+The one who will understand and fix your problems fast. She does not care
 about code quality much, and will never fix any indentation errors in 
-other people's code. He will use duct tape if he has to.
+other people's code. She will use duct tape if he has to.
 
 Can actually write good code from time to time, and is happy when other
-people is refactoring his code for him - as long as it works just as good afterwards.
+people is refactoring her code for her - as long as it works just as good afterwards.
 
 The whole app will be hard to fix if this person ever goes away. Always delivers faster than anyone expects, and always makes the customer and managers happy.
 
@@ -27,7 +27,7 @@ Does not work well with *The Perfectionist*.
 
 ## 2. Mister 90%
 
-The guy who almost fixes the problem, but always misses something that
+The one who almost fixes the problem, but always misses something that
 makes the whole feature unusable or sloppy. Cares more about the code
 than how the end results works.
 
@@ -35,19 +35,19 @@ His progress will look great at first, since he ticks off many items
 on the to do-list – but you will be greatly disapponted since every
 issue has to be opened again.
 
-Does not go well with testers, but is good at keeping deadlines. Combine this guy with *MacGyver* and you have a good team.
+Does not go well with testers, but is good at keeping deadlines. Combine this person with *MacGyver* and you have a good team.
 
 ## 3. The Rewriter
 
-Can never leave a piece of code untouched if he sees something that can
+Can never leave a piece of code untouched if she sees something that can
 be refactored. Can spend more time on refactoring a non-relevant part
-of the codebase than he spends on solving the actual problem.
+of the codebase than she spends on solving the actual problem.
 
 Has the best test suite in history, but it is always red because a rewrite is
 in progress.
 
-If you give an existing project in PHP and MySQL to this guy, he will start
-rewriting it with Go with a NoSQL-database. Then he will ask what the problem was that needed to be fixed.
+If you give an existing project in PHP and MySQL to this perosn, she will start
+rewriting it with Go with a NoSQL-database. Then she will ask what the problem was that needed to be fixed.
 
 
 ## 4. The perfectionist
@@ -63,10 +63,10 @@ The Perfectionist can never do time estimates because perfection has no time fra
 
 ## 5. The Copy-and-Paste coder
 
-Does not really know what he is doing, but got his job a long time ago. He thanks higher powers every day for backups and code versioning systems, because when he tries to do something there is a good chance that something is going to break.
+Does not really know what she is doing, but got her job a long time ago. She thanks higher powers every day for backups and code versioning systems, because when she tries to do something there is a good chance that something is going to break.
 
-Likes to fix things in production environments, because his local development copy never works.
-Spends half of his days on Stack Overflow.
+Likes to fix things in production environments, because her local development copy never works.
+Spends half of her days on Stack Overflow.
 
 ## 6. The Experimenter
 
@@ -78,10 +78,10 @@ Goes well with *The Rewriter*.
 
 ## 7. The Spaghetti Coder
 
-Constantly cutting corners to meet deadlines. Is probably one of the most productive in the office since he constantly
-ships new features, but leaves a trails of undocumented, untested code that even he won't understand a month later.
+Constantly cutting corners to meet deadlines. Is probably one of the most productive in the office since she constantly
+ships new features, but leaves a trails of undocumented, untested code that even she won't understand a month later.
 
-In the long run he probably creates more problems than he solves, but is great for keeping deadlines and shipping stuff early. Checks in all your secret API-key in your open source project on Github, because that was the quickest and simplest solution.
+In the long run she probably creates more problems than she solves, but is great for keeping deadlines and shipping stuff early. Checks in all your secret API-key in your open source project on Github, because that was the quickest and simplest solution.
 
 Does not comply with *The Perfectionist* but creates a lot of work for *The Rewriter*. 
 
