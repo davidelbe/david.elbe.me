@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bootstrap podcasts worth listening to"
+title: "Startup podcasts worth listening to"
 date: "2015-05-28"
 disqus: true
 categories: startup
@@ -8,7 +8,7 @@ categories: startup
 
 I truly enjoy a good podcast when walking to my office, or doing household chores, or driving my car. I tend to listen a lot to business podcasts, and especially startup-related podcasts talking to the bootstrapping part of the startup world.
 
-Here are my list of podcasts that I find worth listening to on a regular basis. 
+Here are my list of podcasts – aimed at startup owners, web entrepreneurs and bootstrappers – that I find worth listening to on a regular basis. 
 
 ## Startups for the rest of us
 
