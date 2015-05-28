@@ -16,7 +16,7 @@ Which one is you?
 
 The one who will understand and fix your problems fast. She does not care
 about code quality much, and will never fix any indentation errors in 
-other people's code. She will use duct tape if he has to.
+other people's code. She will use duct tape if she has to.
 
 Can actually write good code from time to time, and is happy when other
 people is refactoring her code for her - as long as it works just as good afterwards.
@@ -46,7 +46,7 @@ of the codebase than she spends on solving the actual problem.
 Has the best test suite in history, but it is always red because a rewrite is
 in progress.
 
-If you give an existing project in PHP and MySQL to this perosn, she will start
+If you give an existing project in PHP and MySQL to this person, she will start
 rewriting it with Go with a NoSQL-database. Then she will ask what the problem was that needed to be fixed.
 
 
