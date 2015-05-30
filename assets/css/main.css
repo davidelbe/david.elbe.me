@@ -4,7 +4,7 @@
 body {font-size: 1.9rem; }
 
 /* Adding some text shadow*/
-.site-head {text-shadow: 2px 2px #234;}
+.site-head { padding: 40px 0; text-shadow: 2px 2px #234;}
 .site-head a {color:#eee;}
 
 /* The font is too large in the post view. Revert to small size*/
