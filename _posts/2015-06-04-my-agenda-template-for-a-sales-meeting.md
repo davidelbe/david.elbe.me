@@ -16,7 +16,7 @@ Most developers that have to run sales meetings only want to get started coding.
  * __Introductions__ – Start with yourself and go around the room, briefly letting everyone tell a few words about who they are and what role they have.
  * __Problem Description__ - Let the customer describe their problem in their own words. Try to get them to focus on the problem. You will talk about possible solutions later. 
  * __Possible solutions__ - If you can find a solution to the problem right away, tell them so and present the solution. If you don't have it ready yet, you can briefly talk about different solutions that you've done in the past that resembles the given problem. 
- * __Next Meeting/Action___ - A successful sales meeting either leads to an order or a next meeting/action. Make sure to include time for this in your meeting so you all can grab your calendars and see what time best fits you all. 
+ * __Next Meeting/Action__ - A successful sales meeting either leads to an order or a next meeting/action. Make sure to include time for this in your meeting so you all can grab your calendars and see what time best fits you all. 
 
 You'll probably add a few things in the middle that suits your business, but this is a good outline for a sales meeting with a customer. 
 
