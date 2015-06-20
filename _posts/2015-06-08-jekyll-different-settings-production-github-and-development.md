@@ -16,7 +16,7 @@ So, here's my way to use one setting for production and one for development when
 
 ```
 {% raw %}
-{% if jekyll.enviroment == 'production' %}
+{% if jekyll.environment == 'production' %}
   I'm in production!
 {% else %} 
   I'm in development!
