@@ -41,7 +41,7 @@ You should be generous - but focus your generosity on the people who are actuall
 
 ## Do you have any alternative pricing models?
 
-Yes, I'm glad you asked. Start by removing your free plan. While youre at it, think about removing your cheapest plan as well. 
+Yes, I'm glad you asked. Start by removing your free plan. While you're at it, think about removing your cheapest plan as well. 
 
 What I'm saying is that **$19 - $59 – $99** is much better pricing options than **$0 - $9 - $19 - $59 - $99**. And if you don't know what you should call your plans, [check out my earlier post on alternative pricing plan names](http://david.elbe.me/saas/2015/05/24/alternative-names-for-web-app-pricing-plans.html).
 
