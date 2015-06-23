@@ -23,7 +23,7 @@ The problem it tries to solve is that you don't have enough money to do regular 
 
 First, most ___growth hackers only talks about how to bring more users to your services___. The measurement of *"New Signups"* is a success criteria to a growth hacker. But what if the 1000 people you signed up yesterday decide to cancel the service within the next week because they feel tricked? 
 
-Secondly, the wording throws me off. To me, ___Growth hacking sounds more like you're trying to trick people into signing up for your services___. I'm sure there are a great number of people out there who call themselves Growth Hackers, but in really they don't do much "hacking" at all. Hacking implies that you try new stuff all the time – which means that that the following actions are __not__ growth hacking:
+Secondly, the wording throws me off. To me, ___Growth hacking sounds more like you're trying to trick people into signing up for your services___. I'm sure there are a great number of people out there who call themselves Growth Hackers, but in reality they don't do much "hacking" at all. Hacking implies that you try new stuff all the time – which means that that the following actions are __not__ growth hacking:
 
  * SEO
  * Adwords
