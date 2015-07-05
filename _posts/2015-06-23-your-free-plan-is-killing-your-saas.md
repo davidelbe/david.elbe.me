@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your Free Plan is killing your SaaS"
+title: "Your Free Plan is killing your SaaS app"
 date: "2015-06-23"
 disqus: true
 categories: saas
