@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Failing Inbox Zero"
-date: "2015-12-29"
+date: "2015-11-29"
 disqus: true
 categories: habits
 ---
