@@ -3,10 +3,8 @@ layout: post
 title: "Takeaways from Double Your Freelancing Conference Europe 2016"
 ---
 
-<center>
- ![Brennan in Yukata](/assets/images/brennan-yukata.jpg)
- *Brennan Dunn in his Yukata at Yasuragi Spa, Sweden*
-</center>
+![Brennan in Yukata](/assets/images/brennan-yukata.jpg)
+*Brennan Dunn in his Yukata at Yasuragi Spa, Sweden*
 
 I signed up for a business conference. On **Midsummer**.
 
