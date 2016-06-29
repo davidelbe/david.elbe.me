@@ -1,8 +1,6 @@
 name: David Elbe
 description: "Helping freelancers to build awesome web agencies"
 meta_description: "The personal website of David Elbe. Entrepreneur, developer and problem-solver."
-
-markdown: redcarpet
 logo: false
 paginate: 15
 
