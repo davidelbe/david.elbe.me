@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Avoid Signing Your Client's NDA"
+disqus: true
 ---
 
 ![Signing NDA](/assets/images/hand-signing-contract.jpg)

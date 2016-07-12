@@ -7,14 +7,14 @@ categories: saas
 ---
 
 So you have an idea for a web app. You know what it should do and
-who the target audience is. Now it is time to start building it. 
+who the target audience is. Now it is time to start building it.
 
-But you feel confused on what to do next. 
+But you feel confused on what to do next.
 
   "I don't know which programming language to pick"
 
-Picking a programming language for a new app is hard, especially if 
-you're not a programmer yourself. 
+Picking a programming language for a new app is hard, especially if
+you're not a programmer yourself.
 
 ## Backend: The trusted four
 
@@ -34,8 +34,8 @@ a hard time finding people that can build your app – and if you
 do they're most likely newbies.
 
 Some languages I would avoid for web development if this is your
-first try, and you're trying to bootstrap your web app: 
-  
+first try, and you're trying to bootstrap your web app:
+
   * C (Not intended for web development)
   * Windows-only languages/frameworks (.Net - licensing and server costs)
   * Perl (works, but is a bit dated)
@@ -50,7 +50,5 @@ startup. The programmers you pick should have written at least
 one production ready web app with the technology already.
 
 It may be a bit boring, but I would rather have a working/boring
-tech setup and put all my energy in building an exciting product 
-than having an exciting tech setup and a boring/unstable product. 
-
-
+tech setup and put all my energy in building an exciting product
+than having an exciting tech setup and a boring/unstable product.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Takeaways from Double Your Freelancing Conference Europe 2016"
+disqus: true
 ---
 
 ![Brennan in Yukata](/assets/images/brennan-yukata.jpg)

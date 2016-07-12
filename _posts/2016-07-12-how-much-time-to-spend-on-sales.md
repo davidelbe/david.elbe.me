@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How much time should an agency be spending on sales and marketing?"
+disqus: true
 categories:
     - sales
 ---
