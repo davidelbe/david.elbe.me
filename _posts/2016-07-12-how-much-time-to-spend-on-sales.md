@@ -43,3 +43,7 @@ But if you stop selling, your business slowly stops too.
 ## The 20 percent rule works even as you grow from freelancer to agency
 
 As you grow your business from one to five people, you now still need to spend 20% of the combined team's time on sales and marketing. I find that it works best by having a dedicated "sales guy" that handles all incoming leads. The reason is that this person does not get swamped with work like the rest of the crew can be.
+
+## What if I hate sales?
+
+Ah, if you're a one-man team you have to endure it. Trust me – it is not as bad as you think. And you will certainly like sales more than being broke.
