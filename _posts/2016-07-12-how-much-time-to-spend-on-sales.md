@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How much time should an freelancer or agency be spending on sales and marketing?"
+title: "How much time should an agency be spending on sales and marketing?"
 categories:
     - sales
 ---
